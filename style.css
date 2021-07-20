@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  background-color: #f9afc;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+background-image: linear-gradient(
+    to right,
+    #ff512f 0%,
+     #dd2476 51%,
+     #ff512f 100%
+    );
